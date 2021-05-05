@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="htm5">
   </a> &nbsp; 
  </p>
-<br>
+
 
  ## 🚀 Frameworks 🔝 
 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
  </a>&nbsp;
  </p>
 
- <br>
+
 
  ## 📱 Web/Mobile - Frameworks 🔝 
 
