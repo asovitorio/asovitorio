@@ -54,9 +54,6 @@ Here are some ideas to get you started:
   <a href="#" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
   </a> &nbsp; 
-  <a href="#" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="htm5">
-  </a> &nbsp; 
  </p>
 
 
