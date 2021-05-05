@@ -136,7 +136,7 @@ Here are some ideas to get you started:
  </a>&nbsp;
  </p>
 
-## 👨‍💻 Languages 🔝 
+## 👨‍💻 IDE 🔝 
 
 <p>
  <a href ="#">
