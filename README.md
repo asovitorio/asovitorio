@@ -147,11 +147,11 @@ Here are some ideas to get you started:
  </a>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asovitorio&layout='')](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asovitorio&layout='')](https://github.com/asovitorio/github-readme-stats)
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=asovitorio&show_icons=true)
+![Alessandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=asovitorio&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asovitorio)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
