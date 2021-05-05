@@ -146,7 +146,9 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="sqlServer">
  </a>&nbsp;
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asovitorio&layout='')](https://github.com/anuraghazra/github-readme-stats)
+
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=asovitorio&show_icons=true)
 
 
