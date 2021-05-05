@@ -147,5 +147,7 @@ Here are some ideas to get you started:
  </a>&nbsp;
 </p>
 
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=asovitorio&show_icons=true)
+
 
 
